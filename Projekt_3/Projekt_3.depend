@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1481929507 source:c:\users\dell\desktop\laborki\proejkt 3\projekt_3\zapis.c
+
+1482179762 source:c:\users\dell\desktop\laborki\proejkt 3\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wirtualna_biblioteka.h"
+
+1483141031 _biblioteka.h"
+
+1481930044 c:\users\dell\desktop\laborki\proejkt 3\projekt_3\zapis.c
+	<stdio.h>
+	<stdlib.h>
+
+1481930044 
+
+1481981189 source:c:\users\dell\desktop\laborki\proejkt 3\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1482179734 c:\users\dell\desktop\laborki\proejkt 3\projekt_3\wirtualna_biblioteka.h
+
+1482965510 source:c:\users\kamil\desktop\proejkt 3\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1482965502 c:\users\kamil\desktop\proejkt 3\projekt_3\wirtualna_biblioteka.h
+
+1482968675 source:c:\users\kamil\desktop\proejkt 3\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"wirtualna_biblioteka.h"
+
+1482968139 source:c:\users\kamil\desktop\proejkt 3\projekt_3\zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483041905 source:c:\users\kamil\desktop\projekt 3\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483132362 c:\users\kamil\desktop\projekt 3\projekt_3\wirtualna_biblioteka.h
+
+1483051992 source:c:\users\kamil\desktop\projekt 3\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"wirtualna_biblioteka.h"
+
+1483141031 source:c:\users\kamil\desktop\projekt 3\projekt_3\zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483533465 source:/home/mion/s/166/kbuczko/Projekt3/Projekt 3/Projekt_3/pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483474986 /home/mion/s/166/kbuczko/Projekt3/Projekt 3/Projekt_3/wirtualna_biblioteka.h
+
+1483533130 source:/home/mion/s/166/kbuczko/Projekt3/Projekt 3/Projekt_3/zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483532413 source:/home/mion/s/166/kbuczko/Projekt3/Projekt 3/Projekt_3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"wirtualna_biblioteka.h"
+
+1483645208 source:c:\users\dell\desktop\projekt3\projekt 3\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wirtualna_biblioteka.h"
+
+1483646793 c:\users\dell\desktop\projekt3\projekt 3\projekt_3\wirtualna_biblioteka.h
+
+1483644505 source:c:\users\dell\desktop\projekt3\projekt 3\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483646772 source:c:\users\dell\desktop\projekt3\projekt 3\projekt_3\zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1484064875 source:c:\users\dell\desktop\laborki\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1484064939 c:\users\dell\desktop\laborki\projekt_3\wirtualna_biblioteka.h
+
+1484091566 source:c:\users\dell\desktop\laborki\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1484085446 source:c:\users\dell\desktop\laborki\projekt_3\zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483726367 source:c:\users\dell\desktop\laborki\projekt_3\wprowadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1483751458 source:c:\users\dell\desktop\laborki\projekt_3\argumenty.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1484064284 source:c:\users\dell\desktop\laborki\projekt_3\parametry.c
+	<stdio.h>
+	<stdlib.h>
+	"wirtualna_biblioteka.h"
+
+1484064875 source:c:\users\dell\desktop\laborki\sem1\projekt_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1484064939 c:\users\dell\desktop\laborki\sem1\projekt_3\wirtualna_biblioteka.h
+
+1484064284 source:c:\users\dell\desktop\laborki\sem1\projekt_3\parametry.c
+	<stdio.h>
+	<stdlib.h>
+	"wirtualna_biblioteka.h"
+
+1488714438 source:c:\users\dell\desktop\laborki\sem1\projekt_3\pliki.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
+1488715590 source:c:\users\dell\desktop\laborki\sem1\projekt_3\zarzadzanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"wirtualna_biblioteka.h"
+
