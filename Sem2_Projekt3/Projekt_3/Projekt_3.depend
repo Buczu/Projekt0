@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1495364174 source:c:\users\kamil\desktop\sem2_projekt3\projekt_3\amu_park.cpp
+	"Amu_Park.h"
+	"Managment.h"
+
+1495361344 source:c:\users\kamil\desktop\sem2_projekt3\projekt_3\ent_park.cpp
+	"Ent_Park.h"
+
+1495363983 source:c:\users\kamil\desktop\sem2_projekt3\projekt_3\main.cpp
+	"Managment.h"
+
+1495366441 c:\users\kamil\desktop\sem2_projekt3\projekt_3\managment.h
+	<windows.h>
+	"Theme_Park.h"
+
+1495368524 source:c:\users\kamil\desktop\sem2_projekt3\projekt_3\managment.cpp
+	"Managment.h"
+
+1495365063 source:c:\users\kamil\desktop\sem2_projekt3\projekt_3\theme_park.cpp
+	"Theme_Park.h"
+	"Managment.h"
+
+1495364030 c:\users\kamil\desktop\sem2_projekt3\projekt_3\ent_park.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1495364041 c:\users\kamil\desktop\sem2_projekt3\projekt_3\amu_park.h
+	"Ent_Park.h"
+
+1495364050 c:\users\kamil\desktop\sem2_projekt3\projekt_3\theme_park.h
+	"Amu_Park.h"
+
+1495573350 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\ent_park.cpp
+	"Ent_Park.h"
+
+1495645666 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\ent_park.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1495645840 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\main.cpp
+	"Managment.h"
+
+1495663990 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\managment.h
+	<windows.h>
+	"Theme_Park.h"
+	"Zoo.h"
+
+1495662718 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\theme_park.h
+	"Amu_Park.h"
+
+1495645678 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\amu_park.h
+	"Ent_Park.h"
+
+1495649244 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\theme_park.cpp
+	"Theme_Park.h"
+	"Managment.h"
+
+1495647812 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\amu_park.cpp
+	"Amu_Park.h"
+	"Managment.h"
+
+1495645620 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\managment.cpp
+	"Managment.h"
+
+1495663671 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\animal.cpp
+	"Animal.h"
+
+1495663845 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\animal.h
+	<string>
+
+1495664076 c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\zoo.h
+	"Ent_Park.h"
+	"Animal.h"
+	<vector>
+
+1495662777 source:c:\users\dell\desktop\laborki\sem2\sem2_projekt3\projekt_3\zoo.cpp
+	"Zoo.h"
+
