@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1496875538 source:c:\users\marcin\desktop\proj3\boisko.cpp
+	<iostream>
+	"boisko.h"
+
+1496866292 c:\users\marcin\desktop\proj3\boisko.h
+	"teren.h"
+
+1496866962 c:\users\marcin\desktop\proj3\teren.h
+	<string>
+
+1496877646 source:c:\users\marcin\desktop\proj3\funkcje.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	"funkcje.h"
+	<windows.h>
+	<cstdlib>
+
+1496877639 c:\users\marcin\desktop\proj3\funkcje.h
+	<vector>
+	"teren.h"
+	"boisko.h"
+	"stadion.h"
+	"klub.h"
+
+1496876227 source:c:\users\marcin\desktop\proj3\klub.cpp
+	"klub.h"
+	<string>
+	<iomanip>
+	<cstdlib>
+	<iostream>
+
+1496866292 c:\users\marcin\desktop\proj3\klub.h
+	"teren.h"
+
+1496877639 c:\users\marcin\desktop\proj3\stadion.h
+	"boisko.h"
+
+1496876247 source:c:\users\marcin\desktop\proj3\stadion.cpp
+	"stadion.h"
+	<iostream>
+
+1496866014 source:c:\users\marcin\desktop\proj3\teren.cpp
+	"teren.h"
+
+1496878137 source:c:\users\marcin\desktop\proj3\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"funkcje.h"
+
